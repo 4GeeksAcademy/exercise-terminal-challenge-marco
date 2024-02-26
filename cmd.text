@@ -13,6 +13,6 @@ cat trophy.txt
 12. cat ./funcode/the-most-funny/lol/the-ultimate-joke.txt 
 13. rm -r ./boringfolder/*
 14. vi ./kamehameha/dragon-ball-jokes.md
-15. 
+15. nano dragon-ball-jokes, delete first joke, CTRL + X
 
 
